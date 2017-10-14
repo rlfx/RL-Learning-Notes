@@ -4,4 +4,4 @@
 ![stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars)
 ![fork](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)
 
-[![歡迎加入協作貢獻](rl-learning-notes-logo.png)][CONTRIBUTE.md]
+[![歡迎加入協作貢獻](rl-learning-notes-logo.png)](CONTRIBUTE.md)
